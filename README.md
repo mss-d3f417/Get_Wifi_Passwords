@@ -25,7 +25,7 @@
   <h3 align="center">Simple Extract Saved WiFi Passwords Script</h3>
 
   <p align="center">
-    Extract Saved WiFi Passwords With Python By R4V3N ! 
+    Extract Saved WiFi Passwords With Python By D3F417 ! 
     <br />
     <br />
     <br />
@@ -63,7 +63,7 @@ Python - application, we will use subprocess,collections,os,configparser librari
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/R4V3NIR/Get_Wifi_Passwords.git
+   git clone https://github.com/D3F417IR/Get_Wifi_Passwords.git
    ```
 2. Run 
    ```sh
@@ -79,9 +79,9 @@ Python - application, we will use subprocess,collections,os,configparser librari
 <!-- CONTACT -->
 ## Contact
 
-R4V3N - [@R4v3nir](https://t.me/R4v3nir) - mrrobotha3@gmail.com
+D3F417 - [@D3F417ir](https://t.me/D3F417ir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/R4V3NIR/Get_Wifi_Passwords](https://github.com/R4V3NIR/Get_Wifi_Passwords)
+Project Link: [https://github.com/D3F417IR/Get_Wifi_Passwords](https://github.com/D3F417IR/Get_Wifi_Passwords)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
